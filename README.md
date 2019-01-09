@@ -1,5 +1,16 @@
+[tnt@vpsdime01:/usr/tarantula/node_root/node_modules/bunyan/lib]
+$ ls -l
+total 104
+-rw-r--r-- 1 tnt tnt 49651 Nov  7 01:29 bunyan.js
+-rw-rw-r-- 1 tnt tnt 49475 Aug  3  2017 bunyan.js.old
+[tnt@vpsdime01:/usr/tarantula/node_root/node_modules/bunyan/lib]
+$ 
+
+..............
+
 [![npm version](https://img.shields.io/npm/v/bunyan.svg?style=flat)](https://www.npmjs.com/package/bunyan)
 [![Build Status](https://travis-ci.org/trentm/node-bunyan.svg?branch=master)](https://travis-ci.org/trentm/node-bunyan)
+
 
 Bunyan is **a simple and fast JSON logging library** for node.js services:
 
